@@ -11,8 +11,6 @@ The internet runs on IP addresses (like `192.168.1.1`), but bcuz humans are bad 
 > [!summary] Definition: ccTLD
 > A Country Code Top-Level Domain (ccTLD) is an internet top-level domain generally reserved for a country, sovereign state, or dependent territory. They are always exactly two letters long.
 
-While most countries require you to be a resident to register their ccTLD (like `.id` for Indonesia or `.uk` for the United Kingdom), some smaller nations realized they could make a profit by opening their unique codes to the entire world.
-
 > [!example] Examples:
 > * **.tv (Tuvalu)**
 > * **.io (British Indian Ocean Territory)**

@@ -6,28 +6,21 @@ Status:
 Rating: 
 Date_Finished: 
 ---
-# 🎬 [Title of Show/Movie]
+
+# 🎬 [[23.5]]
 
 > [!summary] Synopsis & Info
-> **Synopsis:** Write a quick 1-2 sentence summary of the plot here so you remember what it's about in 5 years.
-> **Genre:** > **Platform/Network:** (e.g., Netflix, YouTube, Cinema)
-> **Episodes:** (e.g., 12/12 or N/A for movies)
+> **Genre:** Romcom | **Platform:** YouTube | **Episodes:** 12
+> **Synopsis:** Ongsa's high school life will never be the same when she carelessly tells her cute and cheerful classmate Sun "sweet dreams" using the Instagram name Earth. Unfortunately, the masculine name leads Sun to believe she's talking to a guy...
 
-> [!link] Important Links
-> * [MyDramaList / IMDB Link]()
-> * [Official Trailer]()
+**👥 Characters**
+* **Main:** [[Milk]] & [[Love]]
+* **Side:** [[View]] & [[June]]
 
----
-
-## 👥 Characters & Dynamics
-*Track your favorite ships, characters, and relationship dynamics.*
-
-* **Main Couple:** [Name] & [Name]
-* **Side Couple(s):** [Name] & [Name]
-* **Favorite Character:** [Name]
-* **Character Notes:** *(Any specific thoughts on their development or why you like them)*
-
----
+**💭 Overall Review**
+* Overall very cute almost no cathartic or cryworthy. very smooth and lots of funny moments.
+* Acting is also good, editing is also good, song is a bit overused.
+* All the character are likeable.
 
 ## 💭 Watch Diary & Thoughts
 *Log your episodic reactions, reviews, and overall feelings.*
@@ -41,3 +34,7 @@ Date_Finished:
 
 > [!note] Episode 2 - 2026-05-15
 > The plot twist at the end of this episode was crazy. I didn't expect the side couple to get so much screen time!
+
+
+
+

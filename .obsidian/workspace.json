@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 HOME.md",
+                "file": "02 - Media Tracker/TV Shows/Thai GLs/controversial info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 HOME"
+              "title": "controversial info"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,21 +183,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f69ce78661703ee0",
+  "active": "2a1c80ff550488e7",
   "lastOpenFiles": [
+    "02 - Media Tracker/TV Shows/Thai GLs/diary or logs.md",
+    "02 - Media Tracker/TV Shows/Thai GLs/controversial info.md",
+    "02 - Media Tracker/Movies/logs or diary.md",
+    "02 - Media Tracker/Kpop/Mamamoo",
+    "02 - Media Tracker/Kpop/Dreamcatcher",
+    "02 - Media Tracker/Kpop/TWICE",
+    "02 - Media Tracker/Kpop",
+    "000 HOME.md",
     "02 - Media Tracker/Movies",
     "02 - Media Tracker/TV Shows/Thai GLs",
     "02 - Media Tracker/TV Shows",
     "Untitled",
     "99 - Templates",
     "03 - Tech Encyclopedia",
-    "02 - Media Tracker",
-    "01 - Calendar & Diary",
     "Internet & Web.md",
     "Hardware.md",
     "2026-04-29.md",
     "Untitled.canvas",
-    "000 HOME.md",
     "Welcome.md",
     "Sync Testing 1.md",
     "OS & Software.md"

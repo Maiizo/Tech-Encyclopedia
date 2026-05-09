@@ -1,5 +1,5 @@
 
-# 🌐 My Tech Encyclopedia
+#  My Tech Encyclopedia
 
 ## 📂 Categories
 - [[Internet & Web]] (ccTLDs, Protocols, Browsers)

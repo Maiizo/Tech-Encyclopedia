@@ -1,17 +1,18 @@
 ---
-Type: Thai GL
+Type:
 Status: Finished
-Rating: 8.5
+Rating: 10
 Date_Finished: 2026-05-08
 ---
-# 🎬 23.5
+# 🎬 
 
 > [!summary] Synopsis & Info
 > **Genre:** Romcom | **Platform:** YouTube | **Episodes:** 12
-> **Synopsis:** Ongsa's high school life will never be the same when she carelessly tells her cute and cheerful classmate Sun "sweet dreams" using the Instagram name Earth. Unfortunately, the masculine name leads Sun to believe she's talking to a guy...
+> **Synopsis:** 
+> 
 
 **👥 Characters**
-* **Main:** [[Milk]] & [[Love]]
+* **Main:**  & [[Love]]
 * **Side:** [[View]] & [[June]]
 
 **💭 Overall Review**

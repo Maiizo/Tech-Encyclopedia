@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Media Tracker/TV Shows/Thai GLs/ClaireBell (2025).md",
+                "file": "03 - Tech Encyclopedia/Hardware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ClaireBell (2025)"
+              "title": "Hardware"
             }
           }
         ],
@@ -198,7 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "hide-folders:Show hidden folders": false,
+      "hide-folders:Hide hidden folders again": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,9 +212,14 @@
   },
   "active": "31c025af99422132",
   "lastOpenFiles": [
-    "02 - Media Tracker/TV Shows/Thai GLs/GAP (2022).md",
+    "02 - Media Tracker/TV Shows/Thai GLs/Thai GLs - Diary.md",
+    "99 - Templates/Template - Media Diary.md",
     "02 - Media Tracker/TV Shows/Thai GLs/23.5 (2024).md",
+    "Love.md",
+    "02 - Media Tracker/TV Shows/Thai GLs/Thai GLs - Fandom Drama & News.md",
+    "99 - Templates/Template - Timestamp.md",
     "02 - Media Tracker/TV Shows/Thai GLs/ClaireBell (2025).md",
+    "02 - Media Tracker/TV Shows/Thai GLs/GAP (2022).md",
     "01 - Calendar & Diary/interesting topic or skill.md",
     "03 - Tech Encyclopedia/Internet & Web.md",
     "02 - Media Tracker/Untitled",
@@ -223,13 +228,11 @@
     "02 - Media Tracker/Movies/Movies - Watch Log 2026.md",
     "03 - Tech Encyclopedia/Sync Testing 1.md",
     "02 - Media Tracker/Novels/Novels - Yuri",
-    "99 - Templates/Template - Media Diary.md",
     "03 - Tech Encyclopedia/Hardware.md",
     "02 - Media Tracker/Kpop/FFs",
     "02 - Media Tracker/Comics",
     "02 - Media Tracker/Novels",
     "02 - Media Tracker/TV Shows/Thai GLs/00 Thai GLs - Master Dashboard.md",
-    "02 - Media Tracker/TV Shows/Thai GLs/Thai GLs - Fandom Drama & News.md",
     "02 - Media Tracker/TV Shows/Thai GLs/Thai GLs - Watch Diary.md",
     "02 - Media Tracker/Kpop/Mamamoo",
     "02 - Media Tracker/Kpop/Dreamcatcher",

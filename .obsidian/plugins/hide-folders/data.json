@@ -1,12 +1,12 @@
 {
-  "areFoldersHidden": false,
+  "areFoldersHidden": true,
   "matchCaseInsensitive": false,
   "addHiddenFoldersToObsidianIgnoreList": false,
   "hideBottomStatusBarIndicatorText": true,
   "enableCompatQuickExplorer": false,
   "attachmentFolderNames": [
     "Thai GLs",
-    "Yuri",
+    "Novels - Yuri",
     "FFs"
   ]
 }
